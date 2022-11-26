@@ -1,0 +1,19 @@
+{
+  "name": "node_shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktgb31/Shell-using-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aktgb31/Shell-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/aktgb31/Shell-using-nodejs#readme"
+}
